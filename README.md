@@ -8,4 +8,4 @@
 
 ## Libros
 
-- [The Pragmatic Programmer] (https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
