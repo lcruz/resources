@@ -7,6 +7,9 @@
 - [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter)
 - [Síndrome de Diógenes](https://en.wikipedia.org/wiki/Diogenes_syndrome) 
 - [Entropía del software](https://en.wikipedia.org/wiki/Software_entropy)
+- [Síndrome de Estocolmo](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo)
+- [Efecto Pigmalión](https://es.wikipedia.org/wiki/Efecto_Pigmali%C3%B3n)
+- [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
 
 ## Libros
 
