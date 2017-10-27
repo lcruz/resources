@@ -16,6 +16,8 @@
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 - [The Mythical Man-Month](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) 
 - [Show your work](https://www.goodreads.com/book/show/18290401-show-your-work)
+- [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.goodreads.com/book/show/6828896-delivering-happiness)
+- [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive)
 
 ## Videos
 
@@ -26,6 +28,13 @@
 
 - [Netflix Culture](https://es.slideshare.net/stevenpappas3/netflix-organizational-culture)
 - [Handbook for new Employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+
+## Podcast
+
+- [How I Built This](https://itunes.apple.com/us/podcast/how-i-built-this-with-guy-raz/id1150510297?mt=2)
+- [The Entrepreneur Way](http://theentrepreneurway.com/podcast/)
+- [Libros para emprenededores](https://librosparaemprendedores.net/blog/)
+- [El Coach – Estrategias de Negocios B2B](https://itunes.apple.com/cl/podcast/el-coach-estrategias-de-negocios-b2b/id942217063?mt=2)
 
 ## Series y Peliculas
 
