@@ -10,6 +10,7 @@
 - [Síndrome de Estocolmo](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo)
 - [Efecto Pigmalión](https://es.wikipedia.org/wiki/Efecto_Pigmali%C3%B3n)
 - [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
+- [Disonancia Cognitiva](https://en.wikipedia.org/wiki/Cognitive_dissonance)
 
 ## Libros
 
