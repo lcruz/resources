@@ -15,6 +15,7 @@
 - [Percepción selectiva](https://es.wikipedia.org/wiki/Percepci%C3%B3n_selectiva)  
 - [Teoría de la Ventana Rota](https://en.wikipedia.org/wiki/Broken_windows_theory) 
 - [Equilibro de Nash](https://es.wikipedia.org/wiki/Equilibrio_de_Nash)
+- [Isomorfismo Organizacional](https://en.wikipedia.org/wiki/Isomorphism_(sociology))
 
 ## Libros
 
