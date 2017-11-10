@@ -4,7 +4,7 @@
 
 - [Ley de Parkinson](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 - [Ecuación de Lewin](https://en.wikipedia.org/wiki/Lewin%27s_equation)
-- [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter)nas
+- [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter)
 - [Síndrome de Diógenes](https://en.wikipedia.org/wiki/Diogenes_syndrome) 
 - [Entropía del software](https://en.wikipedia.org/wiki/Software_entropy)
 - [Síndrome de Estocolmo](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo)
