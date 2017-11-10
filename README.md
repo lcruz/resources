@@ -16,6 +16,7 @@
 - [Teoría de la Ventana Rota](https://en.wikipedia.org/wiki/Broken_windows_theory) 
 - [Equilibro de Nash](https://es.wikipedia.org/wiki/Equilibrio_de_Nash)
 - [Isomorfismo Organizacional](https://en.wikipedia.org/wiki/Isomorphism_(sociology))
+- [Four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)
 
 ## Articulos
  
