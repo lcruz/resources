@@ -13,6 +13,7 @@
 - [Disonancia Cognitiva](https://en.wikipedia.org/wiki/Cognitive_dissonance)
 - [Gatopardismo](https://es.wikipedia.org/wiki/El_gatopardo) - Si queremos que todo siga como está, necesitamos que todo cambie.
 - [Percepción selectiva](https://es.wikipedia.org/wiki/Percepci%C3%B3n_selectiva)  
+- [Teoría de la Ventana Rota](https://en.wikipedia.org/wiki/Broken_windows_theory) 
 
 ## Libros
 
