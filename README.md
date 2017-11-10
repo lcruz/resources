@@ -11,6 +11,8 @@
 - [Efecto Pigmalión](https://es.wikipedia.org/wiki/Efecto_Pigmali%C3%B3n)
 - [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
 - [Disonancia Cognitiva](https://en.wikipedia.org/wiki/Cognitive_dissonance)
+- [Gatopardismo](https://es.wikipedia.org/wiki/El_gatopardo) - Si queremos que todo siga como está, necesitamos que todo cambie.
+- [Percepción selectiva](https://es.wikipedia.org/wiki/Percepci%C3%B3n_selectiva)  
 
 ## Libros
 
