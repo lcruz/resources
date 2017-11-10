@@ -4,7 +4,7 @@
 
 - [Ley de Parkinson](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 - [Ecuación de Lewin](https://en.wikipedia.org/wiki/Lewin%27s_equation)
-- [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter)
+- [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter)nas
 - [Síndrome de Diógenes](https://en.wikipedia.org/wiki/Diogenes_syndrome) 
 - [Entropía del software](https://en.wikipedia.org/wiki/Software_entropy)
 - [Síndrome de Estocolmo](http://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo)
@@ -14,7 +14,7 @@
 - [Gatopardismo](https://es.wikipedia.org/wiki/El_gatopardo) - Si queremos que todo siga como está, necesitamos que todo cambie.
 - [Percepción selectiva](https://es.wikipedia.org/wiki/Percepci%C3%B3n_selectiva)  
 - [Teoría de la Ventana Rota](https://en.wikipedia.org/wiki/Broken_windows_theory) 
-- [https://en.wikipedia.org/wiki/Nash_equilibrium](https://es.wikipedia.org/wiki/Equilibrio_de_Nash)
+- [Equilibro de Nash](https://es.wikipedia.org/wiki/Equilibrio_de_Nash)
 
 ## Libros
 
