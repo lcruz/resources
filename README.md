@@ -17,6 +17,10 @@
 - [Equilibro de Nash](https://es.wikipedia.org/wiki/Equilibrio_de_Nash)
 - [Isomorfismo Organizacional](https://en.wikipedia.org/wiki/Isomorphism_(sociology))
 
+## Articulos
+ 
+- [Etapas de Aprendizaje](http://www.tango.cl/etapas_aprendizaje) El aprendizaje en el tango y como podemos aplicarlo a otras displinas.
+
 ## Libros
 
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
